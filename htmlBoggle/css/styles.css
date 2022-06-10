@@ -1,0 +1,21 @@
+h2{
+    width: 100%;
+    text-align: center;
+}
+table {
+    border:1px solid black ;
+}
+td {
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+table.boggleBoard {
+    border:1px solid black;
+}
+
+table.boggleBoard td.boggleBoard {
+    border:1px solid black;
+    width:50pt;
+    height:50pt;
+    font-size: 40px;
+}
